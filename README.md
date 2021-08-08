@@ -1,6 +1,6 @@
 <h1>Hi there :alien:</h1>
 
-A little about me: G̛̝r͙̬e͏̜̗̬̫ͅp͔͕͓̙̰̞̪l҉u̫̭͚͈̬̟͖c̵k̢̜͍̘ͅ
+A little about me: G̛̝r͙̬e͏̜̗̬̫ͅp͔͕͓̙̰̞̪l҉u̫̭͚͈̬̟͖c̵k̢̜͍̘ͅ<br>
 Jack of all trades, master of none :earth_americas:
 
     🔨 I’m currently working with Sysadmin.
